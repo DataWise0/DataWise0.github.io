@@ -1,1 +1,1 @@
-# DataWise0.github.io
+A simple webpage for my stuff
